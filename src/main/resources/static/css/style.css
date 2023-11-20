@@ -1,0 +1,47 @@
+header, main, footer{
+border: 1px solid red;
+}
+
+main {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+border: 5px dotted greenyellow;
+width: 30%;
+/*margin: 50px;*/
+padding: 30px 40px 40px 30px;
+position: relative;
+/*top: 100px;
+left: 50px;*/
+}
+
+a {
+background-color: cyan;
+}
+
+section{
+padding: 10px;
+border: 3px indigo;
+}
+
+.sec1, .sec2{
+color: #11FF55;
+float: left;
+}
+
+#mainpart{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+clear: left;
+}
+
+table, th, td{
+border: 1px solid blue;
+}
+
+table{
+border-collapse: collapse;
+}
